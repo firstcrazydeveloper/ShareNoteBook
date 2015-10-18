@@ -1,0 +1,21 @@
+﻿.navbar-inverse{
+    background-color:white;
+    border-color:ActiveBorder;
+}
+.navbar-inverse .navbar-nav > li > a:hover{
+    color:cornflowerblue;
+}
+.navbar-inverse .navbar-brand:hover,
+.navbar-inverse .navbar-brand:focus,
+.navbar-inverse .navbar-brand{
+    color:cornflowerblue!important;
+}
+ .jumbotron h1{
+     font-size:30px;
+ }
+ .lead{
+     font-size:15px;
+ }
+ h2, .h2 {
+  font-size: 20px;
+}
